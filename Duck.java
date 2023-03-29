@@ -1,5 +1,3 @@
-package strategy;
-
 //MAIN DUCK CLASS
 public abstract class Duck {
 	flyBehavior fB;
